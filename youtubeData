@@ -1,6 +1,6 @@
 {
   "video_button": {
-    "active": false,
+    "active": true,
     "label": "Watch KPOP TEST"
   },
   "videos": [
