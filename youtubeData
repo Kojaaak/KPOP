@@ -1,0 +1,20 @@
+{
+  "video_button": {
+    "active": true,
+    "label": "Watch KPOP TEST"
+  },
+  "videos": [
+    {
+      "title": "aespa - Drama MV",
+      "videoId": "Os_heh8vPfs"
+    },
+    {
+      "title": "BLACKPINK - How You Like That",
+      "videoId": "ioNng23DkIM"
+    },
+    {
+      "title": "BTS - Dynamite",
+      "videoId": "gdZLi9oWNZg"
+    }
+  ]
+}
